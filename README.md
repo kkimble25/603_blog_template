@@ -5,7 +5,7 @@ This is the generic DACSS course blog hosted on GitHub pages. Students will crea
 # Setup R Course blog (for Students)
 If this is your first time setting up a DACSS course blog repository, or if you have forgotten how, please consult the youtube playlist on setting up your GitHub account, linking to R, and setting up a course blog.
 
-# Weekly Workflow (for Students)
+# Weekly Workflow (for Students) [Video Link](https://www.loom.com/share/6c15f27ed592423c96613f8f876548cf)
 - Create a New Post
 - Render the .qmd file
 - Commit and Push Changes to Github
